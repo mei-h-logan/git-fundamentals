@@ -1,2 +1,2 @@
 readme 1
-sharing is easy
+sharing is easyfeature2
