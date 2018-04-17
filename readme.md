@@ -4,3 +4,4 @@ fix bug123
 feature1
 feature2
 add feature4
+add new feature4
